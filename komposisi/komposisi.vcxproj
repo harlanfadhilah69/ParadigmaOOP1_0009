@@ -128,6 +128,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="komposisi.cpp" />
+    <ClCompile Include="mainJM.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="jantung.h" />
+    <ClInclude Include="manusia.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
